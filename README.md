@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Faizan-0711
 - 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently learning Machine Learning , Statistics ,Power BI and many more.
+- 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to work as a Data Analyst(Intern).
 - 📫 How to reach me e-mail :- faizanfahim8548@outlook.com
 
